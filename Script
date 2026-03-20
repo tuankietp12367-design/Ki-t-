@@ -1,0 +1,7 @@
+-- this script created at https://hoannhatz.github.io/ezscript
+getgenv().ScriptTitle = "Bloc fruit"
+getgenv().ScriptSubTitle = "V1.1.1"
+getgenv().ScriptImage = "IMAGE_URL_HERE"
+getgenv().ScriptAuthorName = "Kiệt"
+getgenv().ScriptAuthorSubTitle = "https://discord.gg/QhjkRAhz7"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hoannhatz/Script/refs/heads/main/EZScript.lua"))()
